@@ -3,7 +3,9 @@
   "version": "0.0.0",
   "description": "Isomorphic DOMReady - just nextTicks in node.",
   "main": "index.js",
-  "browser": "domready",
+  "browser": {
+    "./index.js": "domready"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
