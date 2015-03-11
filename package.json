@@ -1,0 +1,30 @@
+{
+  "name": "dooomrdy",
+  "version": "0.0.0",
+  "description": "Isomorphic DOMReady - just nextTicks in node.",
+  "main": "index.js",
+  "browser": "domready",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iceddev/dooomrdy"
+  },
+  "keywords": [
+    "dom",
+    "ready",
+    "ready",
+    "dom",
+    "isomorphic"
+  ],
+  "author": "Blaine Bublitz <blaine@iceddev.com> (http://iceddev.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iceddev/dooomrdy/issues"
+  },
+  "homepage": "https://github.com/iceddev/dooomrdy",
+  "dependencies": {
+    "domready": "^1.0.7"
+  }
+}
